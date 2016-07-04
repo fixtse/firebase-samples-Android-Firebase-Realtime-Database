@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "304575240071",
+    "firebase_url": "https://project-1927617571348193218.firebaseio.com",
+    "project_id": "project-1927617571348193218",
+    "storage_bucket": "project-1927617571348193218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304575240071:android:9ded71d0f6b19171",
+        "android_client_info": {
+          "package_name": "pe.ulima.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304575240071-lafqj0malkioidgkv20c1nh582r2kbr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQWtzgWIgLZcKcKnG-EiExvMaNR5GwRa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

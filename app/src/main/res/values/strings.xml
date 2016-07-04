@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Sample</string>
+    <string name="button_label">Enviar</string>
+    <string name="edit_text_hint">Ingrese una palabra</string>
+    <string name="edit_text_hint_2">Ingrese una fruta</string>
+    <string name="text_view_label">Última palabra ingresada:</string>
+    <string name="text_view_label_2">Última fruta ingresada:</string>
+    <string name="text_view_initial"><![CDATA[<< Aun no ha ingresado palabra >>]]></string>
+    <string name="text_view_initial_2"><![CDATA[<< Aun no ha ingresado fruta >>]]></string>
+    <string name="text_view_initial_3"><![CDATA[<< Aun no ha ingresado fruta >>]]></string>
+    <string name="title_activity_main2">Firebase Sample 2</string>
+</resources>
